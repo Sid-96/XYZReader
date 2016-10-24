@@ -2291,7 +2291,14 @@
                     "endOffset": 37062
                 },
                 "from": {
-                    "file": "C:\\Users\\Sid\\AndroidStudioProjects\\XYZReader\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\Sid\\AndroidStudioProjects\\XYZReader\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 52,
+                        "endOffset": 138
+                    }
                 }
             },
             {
@@ -3252,14 +3259,7 @@
                     "endOffset": 42602
                 },
                 "from": {
-                    "file": "C:\\Users\\Sid\\AndroidStudioProjects\\XYZReader\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 996,
-                        "endColumn": 90,
-                        "endOffset": 1082
-                    }
+                    "file": "C:\\Users\\Sid\\AndroidStudioProjects\\XYZReader\\src\\main\\res\\values\\styles.xml"
                 }
             },
             {
@@ -3271,14 +3271,7 @@
                     "endOffset": 42682
                 },
                 "from": {
-                    "file": "C:\\Users\\Sid\\AndroidStudioProjects\\XYZReader\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 1088,
-                        "endColumn": 80,
-                        "endOffset": 1164
-                    }
+                    "file": "C:\\Users\\Sid\\AndroidStudioProjects\\XYZReader\\src\\main\\res\\values\\styles.xml"
                 }
             },
             {
